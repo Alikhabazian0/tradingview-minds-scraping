@@ -1,0 +1,1214 @@
+{
+  "status": 200,
+  "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjEyMTk4NF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+  "payload": {
+    "results": [
+      {
+        "symbols": {
+          "XAUUSD": "FOREXCOM:XAUUSD"
+        },
+        "snapshot_id": "Lq5sfGLy",
+        "uid": "7wu4jPCaTkWfn9RzWnAHqQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=7wu4jPCaTkWfn9RzWnAHqQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Entry: 4540 – 4560\n Stop Loss: 4585\n Take Profit 1: 4480\n Take Profit 2: 4427.50"
+          ]
+        },
+        "author": {
+          "username": "MrStellanSight",
+          "uri": "/u/MrStellanSight/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/67597851-knWC.png",
+            "mid": "https://s3.tradingview.com/userpics/67597851-knWC_mid.png",
+            "big": "https://s3.tradingview.com/userpics/67597851-knWC_big.png",
+            "orig": "https://s3.tradingview.com/userpics/67597851-knWC_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T20:02:51.295019+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/l/Lq5sfGLy.png",
+        "total_likes": 9,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "$XAUUSD Entry: 4540 – 4560\n Stop Loss: 4585\n Take Profit 1: 4480\n Take Profit 2: 4427.50",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD"
+        },
+        "uid": "moW2mNgYTSaoG8Mnc5_IVA",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=moW2mNgYTSaoG8Mnc5_IVA&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " BUY LIMIT: 4538 – 4540\nTP1: 4548\nTP2: 4556\nTP3: 4568\nSL: 4530\nReason:\nPrice is testing the Supertrend support around 4538.\nOverall trend remains bullish.\nA bullish reaction from this zone could trigger a recovery toward 4556–4568.\nAlternative Scenario: If a 15-minute candle closes below 4538, cancel the buy setup and look for downside toward 4530 and 4521."
+          ]
+        },
+        "author": {
+          "username": "EA_GOLD_MAN_COPY_TRADE",
+          "uri": "/u/EA_GOLD_MAN_COPY_TRADE/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/100259924-Cnq7.png",
+            "mid": "https://s3.tradingview.com/userpics/100259924-Cnq7_mid.png",
+            "big": "https://s3.tradingview.com/userpics/100259924-Cnq7_big.png",
+            "orig": "https://s3.tradingview.com/userpics/100259924-Cnq7_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T19:56:09.531580+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$GOLD BUY LIMIT: 4538 – 4540\nTP1: 4548\nTP2: 4556\nTP3: 4568\nSL: 4530\nReason:\nPrice is testing the Supertrend support around 4538.\nOverall trend remains bullish.\nA bullish reaction from this zone could trigger a recovery toward 4556–4568.\nAlternative Scenario: If a 15-minute candle closes below 4538, cancel the buy setup and look for downside toward 4530 and 4521.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "73V8qDOuSa6k76EeqYzKmg",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=73V8qDOuSa6k76EeqYzKmg&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Mi rutina de trading — de 7:30 a 17:00 Paris | 07:30 - Check HTF bias (H4, H1)\n08:00 - Asian range analysis\n09:30 - Pre-SB1 setup scan\n10:00-11:00 - SB1 FOCUS (M15)\n11:30 - Post-SB1 review\n14:30 - Pre-SB2 setup scan\n15:00-16:00 - SB2 FOCUS (M15)\n1 #XAUUSD #Gold #Trading"
+          ]
+        },
+        "author": {
+          "username": "bolivarbolsa",
+          "uri": "/u/bolivarbolsa/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/138444430-HEkF.png",
+            "mid": "https://s3.tradingview.com/userpics/138444430-HEkF_mid.png",
+            "big": "https://s3.tradingview.com/userpics/138444430-HEkF_big.png",
+            "orig": "https://s3.tradingview.com/userpics/138444430-HEkF_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T19:35:04.629057+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Mi rutina de trading — de 7:30 a 17:00 Paris | 07:30 - Check HTF bias (H4, H1)\n08:00 - Asian range analysis\n09:30 - Pre-SB1 setup scan\n10:00-11:00 - SB1 FOCUS (M15)\n11:30 - Post-SB1 review\n14:30 - Pre-SB2 setup scan\n15:00-16:00 - SB2 FOCUS (M15)\n1 #XAUUSD #Gold #Trading",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "xz5YYcT6Stinrj9zpsDLzQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=xz5YYcT6Stinrj9zpsDLzQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "XAUUSD H4 Update | BULLISH confirmada | $4540.53 | Move +1.93 | Range intact | Range $4538.6-$4540.53 | Bias alcista confirmado. Entries en OTE + OB. #XAUUSD #Gold #TechnicalAnalysis"
+          ]
+        },
+        "author": {
+          "username": "bolivarbolsa",
+          "uri": "/u/bolivarbolsa/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/138444430-HEkF.png",
+            "mid": "https://s3.tradingview.com/userpics/138444430-HEkF_mid.png",
+            "big": "https://s3.tradingview.com/userpics/138444430-HEkF_big.png",
+            "orig": "https://s3.tradingview.com/userpics/138444430-HEkF_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T19:28:26.847775+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "XAUUSD H4 Update | BULLISH confirmada | $4540.53 | Move +1.93 | Range intact | Range $4538.6-$4540.53 | Bias alcista confirmado. Entries en OTE + OB. #XAUUSD #Gold #TechnicalAnalysis",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "9okWQ_GhR-irXaEu4N6hyA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=9okWQ_GhR-irXaEu4N6hyA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " A hard truth I learned from trading:\n\nThe market doesn't owe you a winning trade because you waited all day.\n\nIt doesn't care how badly you need the money.\n\nIt rewards discipline, not desperation.\n\nThat lesson cost me more than any losing trade."
+          ]
+        },
+        "author": {
+          "username": "Efosa22",
+          "uri": "/u/Efosa22/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2854,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2854,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2854,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T18:36:17.781998+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 10,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD A hard truth I learned from trading:\n\nThe market doesn't owe you a winning trade because you waited all day.\n\nIt doesn't care how badly you need the money.\n\nIt rewards discipline, not desperation.\n\nThat lesson cost me more than any losing trade.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD"
+        },
+        "uid": "An9sURsgQt61MYgI97-m5g",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=An9sURsgQt61MYgI97-m5g&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Core Conclusion: Gold rebounds weakly in a tight range after falling sharply. 4480 is the short-term bull-bear dividing line. Cautious market sentiment: retail investors stay on the sidelines while institutions hold long-term bullish views. Supported by central bank purchases and Fed rate cut expectations, gold has limited downside and will consolidate to form a bottom. Key support: 4430–4450; Key resistance: 4580–4600.\n\n ",
+            {
+              "params": {
+                "link": "https://www.tradingview.com/chart/GOLD/rQNZiGqH-Gold-Short-Analysis/",
+                "name": "Gold Short Analysis",
+                "uid": "rQNZiGqH"
+              },
+              "type": "idea_link"
+            }
+          ]
+        },
+        "author": {
+          "username": "Sisnxj-",
+          "uri": "/u/Sisnxj-/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/128588949-Fvry.png",
+            "mid": "https://s3.tradingview.com/userpics/128588949-Fvry_mid.png",
+            "big": "https://s3.tradingview.com/userpics/128588949-Fvry_big.png",
+            "orig": "https://s3.tradingview.com/userpics/128588949-Fvry_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T18:31:13.790755+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "\"TVC:GOLD\" GOLD Core Conclusion: Gold rebounds weakly in a tight range after falling sharply. 4480 is the short-term bull-bear dividing line. Cautious market sentiment: retail investors stay on the sidelines while institutions hold long-term bullish views. Supported by central bank purchases and Fed rate cut expectations, gold has limited downside and will consolidate to form a bottom. Key support: 4430–4450; Key resistance: 4580–4600.https://www.tradingview.com/chart/GOLD/rQNZiGqH-Gold-Short-Analysis/ https://www.tradingview.com/chart/GOLD/rQNZiGqH-Gold-Short-Analysis/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "FX:XAUUSD"
+        },
+        "snapshot_id": "aDnzMzKr",
+        "uid": "IPJ94KW4QPWN0UdKr925lQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=IPJ94KW4QPWN0UdKr925lQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413"
+          ]
+        },
+        "author": {
+          "username": "SRT_Masters",
+          "uri": "/u/SRT_Masters/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/136377647-veE6.png",
+            "mid": "https://s3.tradingview.com/userpics/136377647-veE6_mid.png",
+            "big": "https://s3.tradingview.com/userpics/136377647-veE6_big.png",
+            "orig": "https://s3.tradingview.com/userpics/136377647-veE6_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T18:29:58.322689+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/a/aDnzMzKr.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413Entry Zone: 4540 – 4550\n🛑 Stop Loss: 4610\n🎯 Take Profit 1: 4440\n🎯 Take Profit 2: 4420\n🎯 Take Profit 3: 4413",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD"
+        },
+        "uid": "Ogn-OdXvSQSROL4B4oKHqQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=Ogn-OdXvSQSROL4B4oKHqQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " — Gold closed near 4538 and is showing signs of weakness around a key resistance region\nPrice action is struggling to maintain bullish momentum, while sellers continue defending higher levels. The recent rejection suggests that downside pressure may increase if the market fails to reclaim resistance.\nA continuation below current levels could attract further selling interest and expose lower support zones. Market participants will be watching for confirmation of bearish momentum before expecting a stronger decline.\nAs long as price remains below resistance, the short-term outlook may favor sellers.\nEducational purposes only. This is not financial advice."
+          ]
+        },
+        "author": {
+          "username": "zionpremiumtrader",
+          "uri": "/u/zionpremiumtrader/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28207,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EZ%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28207,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EZ%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28207,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EZ%3C/text%3E%3C/svg%3E"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2026-05-30T14:09:43.588179+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 5,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$GOLD — Gold closed near 4538 and is showing signs of weakness around a key resistance region\nPrice action is struggling to maintain bullish momentum, while sellers continue defending higher levels. The recent rejection suggests that downside pressure may increase if the market fails to reclaim resistance.\nA continuation below current levels could attract further selling interest and expose lower support zones. Market participants will be watching for confirmation of bearish momentum before expecting a stronger decline.\nAs long as price remains below resistance, the short-term outlook may favor sellers.\nEducational purposes only. This is not financial advice.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "BdY4ekWG",
+        "uid": "-CRvK-mNRPeRcL9SimjUXQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=-CRvK-mNRPeRcL9SimjUXQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " The market is expected to see further pullback, given the significant rebound on Thursday and Friday. However, since the overall trend remains bullish, next week we should focus on whether the key support levels are reached, and then consider buying on dips. ",
+            {
+              "params": {
+                "link": "https://www.tradingview.com/chart/XAUUSD/b3k9Ldf2-This-Week-s-Market-Review-and-Next-Week-s-Forecast/",
+                "name": "This Week's Market Review and Next Week's Forecast",
+                "uid": "b3k9Ldf2"
+              },
+              "type": "idea_link"
+            }
+          ]
+        },
+        "author": {
+          "username": "aosf9860",
+          "uri": "/u/aosf9860/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2026-05-30T14:05:20.098819+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/b/BdY4ekWG.png",
+        "total_likes": 13,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD The market is expected to see further pullback, given the significant rebound on Thursday and Friday. However, since the overall trend remains bullish, next week we should focus on whether the key support levels are reached, and then consider buying on dips. https://www.tradingview.com/chart/XAUUSD/b3k9Ldf2-This-Week-s-Market-Review-and-Next-Week-s-Forecast/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD"
+        },
+        "uid": "L0Y9z70wQfOyi84SaYp1pg",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=L0Y9z70wQfOyi84SaYp1pg&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Gold markets reopen on Monday Use the weekend to identify key support and resistance zones refine your trading plan and prepare for potential market-moving volatility Stay disciplined remain patient and closely monitor price action for high-probability opportunities. 📈⚡"
+          ]
+        },
+        "author": {
+          "username": "BOSSDlN",
+          "uri": "/u/BOSSDlN/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2875,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2875,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2875,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2026-05-30T13:20:51.838315+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 6,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$GOLD Gold markets reopen on Monday Use the weekend to identify key support and resistance zones refine your trading plan and prepare for potential market-moving volatility Stay disciplined remain patient and closely monitor price action for high-probability opportunities. 📈⚡",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD"
+        },
+        "uid": "WsswJY8qQ-e6awHwz1Ij9Q",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=WsswJY8qQ-e6awHwz1Ij9Q&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " The Link Between Falling Energy Prices and Inflation Expectations\n\nIn April, US inflation surged to its fastest pace in three years, driven by energy prices. High energy costs solidified market expectations that the Federal Reserve would maintain high interest rates until next year, with some even suggesting a possible rate hike before the end of the year. Gold, as a non-interest-bearing asset, is naturally under pressure in a high-interest-rate environment due to increased holding costs and the enhanced attractiveness of the US dollar.\n\nHowever, falling oil prices are providing potential support for gold through the inflation transmission mechanism. Analysts point out that \"gold and oil prices maintain a negative correlation; oil prices influence inflation and monetary policy. Lower oil prices reduce the probability of interest rate hikes, which is beneficial for gold.\" If the resumption of navigation in the Strait of Hormuz is implemented, it will directly alleviate energy-driven inflationary pressures, weakening the need for the Federal Reserve to further tighten policy, thus providing gold with medium-term breathing room.\n\nHowever, the current market is still dominated by interest rate paths. In May, global markets were in a consolidation phase. Geopolitical tensions and inflation concerns continued to affect sentiment, but easing safe-haven demand and the high-interest-rate outlook jointly suppressed the performance of precious metals. Traders are closely watching the Federal Reserve's subsequent statements and whether energy prices can continue to fall in order to avoid a resurgence of inflation expectations."
+          ]
+        },
+        "author": {
+          "username": "UnknownUnicorn136144662",
+          "uri": "/u/UnknownUnicorn136144662/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28201,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28201,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28201,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T12:44:15.791925+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 4,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$GOLD The Link Between Falling Energy Prices and Inflation Expectations\n\nIn April, US inflation surged to its fastest pace in three years, driven by energy prices. High energy costs solidified market expectations that the Federal Reserve would maintain high interest rates until next year, with some even suggesting a possible rate hike before the end of the year. Gold, as a non-interest-bearing asset, is naturally under pressure in a high-interest-rate environment due to increased holding costs and the enhanced attractiveness of the US dollar.\n\nHowever, falling oil prices are providing potential support for gold through the inflation transmission mechanism. Analysts point out that \"gold and oil prices maintain a negative correlation; oil prices influence inflation and monetary policy. Lower oil prices reduce the probability of interest rate hikes, which is beneficial for gold.\" If the resumption of navigation in the Strait of Hormuz is implemented, it will directly alleviate energy-driven inflationary pressures, weakening the need for the Federal Reserve to further tighten policy, thus providing gold with medium-term breathing room.\n\nHowever, the current market is still dominated by interest rate paths. In May, global markets were in a consolidation phase. Geopolitical tensions and inflation concerns continued to affect sentiment, but easing safe-haven demand and the high-interest-rate outlook jointly suppressed the performance of precious metals. Traders are closely watching the Federal Reserve's subsequent statements and whether energy prices can continue to fall in order to avoid a resurgence of inflation expectations.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "PYTH:XAUUSD"
+        },
+        "uid": "hPPM8ZS_QIy20bVTr_Q4Ww",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=hPPM8ZS_QIy20bVTr_Q4Ww&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " London gold moved sideways within a range with frequent shifts between buyers and sellers this week. I stuck to precise entry and selective positioning.\n ",
+            {
+              "params": {
+                "link": "https://www.tradingview.com/chart/XAUUSD/hriPdm2J-This-Week-s-Gold-Market-Recap/",
+                "name": "This Week's Gold Market Recap",
+                "uid": "hriPdm2J"
+              },
+              "type": "idea_link"
+            }
+          ]
+        },
+        "author": {
+          "username": "Miles_trader",
+          "uri": "/u/Miles_trader/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/54946081-UG7B.png",
+            "mid": "https://s3.tradingview.com/userpics/54946081-UG7B_mid.png",
+            "big": "https://s3.tradingview.com/userpics/54946081-UG7B_big.png",
+            "orig": "https://s3.tradingview.com/userpics/54946081-UG7B_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T12:13:22.009551+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "\"OANDA:XAUUSD\" XAUUSD London gold moved sideways within a range with frequent shifts between buyers and sellers this week. I stuck to precise entry and selective positioning.\nhttps://www.tradingview.com/chart/XAUUSD/hriPdm2J-This-Week-s-Gold-Market-Recap/ https://www.tradingview.com/chart/XAUUSD/hriPdm2J-This-Week-s-Gold-Market-Recap/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "bxkV11zL",
+        "uid": "fQkn4LRKSwySa6xDvxuwKQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=fQkn4LRKSwySa6xDvxuwKQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " The major 4H market structure has experienced a deep corrective flush down to external liquidity pools. Price has delivered a precise mitigation of the historical macro \"support\" zone ($4,360 - $4,380), prompting an immediate bullish rejection. The white projection path anticipates a localized accumulation phase inside the lower range before launching an aggressive expansion to reclaim overhead structural levels."
+          ]
+        },
+        "author": {
+          "username": "Richard_PrimeInsights",
+          "uri": "/u/Richard_PrimeInsights/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/135875912-3U0r.png",
+            "mid": "https://s3.tradingview.com/userpics/135875912-3U0r_mid.png",
+            "big": "https://s3.tradingview.com/userpics/135875912-3U0r_big.png",
+            "orig": "https://s3.tradingview.com/userpics/135875912-3U0r_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2026-05-30T12:09:02.554599+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/b/bxkV11zL.png",
+        "total_likes": 11,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD The major 4H market structure has experienced a deep corrective flush down to external liquidity pools. Price has delivered a precise mitigation of the historical macro \"support\" zone ($4,360 - $4,380), prompting an immediate bullish rejection. The white projection path anticipates a localized accumulation phase inside the lower range before launching an aggressive expansion to reclaim overhead structural levels.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "fAt9VdTbSz2eimNDDsV-TA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=fAt9VdTbSz2eimNDDsV-TA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " After stabilizing above the 10-day moving average, gold has now reached near the 20-day moving average, which is exactly as we expected. Judging from the current trend, gold will continue its upward trend with fluctuations, and the possibility of another bullish counterattack next week remains very high. Looking at the monthly chart, the current pattern is still neutral, meaning that the overall wide-range fluctuation pattern for next month remains unchanged!\n\n ",
+            {
+              "params": {
+                "link": "https://www.tradingview.com/chart/XAUUSD/b3k9Ldf2-This-Week-s-Market-Review-and-Next-Week-s-Forecast/",
+                "name": "This Week's Market Review and Next Week's Forecast",
+                "uid": "b3k9Ldf2"
+              },
+              "type": "idea_link"
+            }
+          ]
+        },
+        "author": {
+          "username": "aosf9860",
+          "uri": "/u/aosf9860/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28120,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2026-05-30T11:50:46.346833+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "\"OANDA:XAUUSD\" XAUUSD After stabilizing above the 10-day moving average, gold has now reached near the 20-day moving average, which is exactly as we expected. Judging from the current trend, gold will continue its upward trend with fluctuations, and the possibility of another bullish counterattack next week remains very high. Looking at the monthly chart, the current pattern is still neutral, meaning that the overall wide-range fluctuation pattern for next month remains unchanged!https://www.tradingview.com/chart/XAUUSD/b3k9Ldf2-This-Week-s-Market-Review-and-Next-Week-s-Forecast/ https://www.tradingview.com/chart/XAUUSD/b3k9Ldf2-This-Week-s-Market-Review-and-Next-Week-s-Forecast/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "vvo7RAnYSj2LElxuvNM-jA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=vvo7RAnYSj2LElxuvNM-jA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Discipline today = profits tomorrow"
+          ]
+        },
+        "author": {
+          "username": "smart_moneytrader7",
+          "uri": "/u/smart_moneytrader7/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/138205821-omy1.png",
+            "mid": "https://s3.tradingview.com/userpics/138205821-omy1_mid.png",
+            "big": "https://s3.tradingview.com/userpics/138205821-omy1_big.png",
+            "orig": "https://s3.tradingview.com/userpics/138205821-omy1_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T11:16:40.147848+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 9,
+        "total_comments": 3,
+        "can_view": true,
+        "text": "$XAUUSD Discipline today = profits tomorrow",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "uzKzUNMmSNSljQMa2I6Taw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=uzKzUNMmSNSljQMa2I6Taw&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " The market doesn't pay for predictions, it pays for discipline."
+          ]
+        },
+        "author": {
+          "username": "mayachartist",
+          "uri": "/u/mayachartist/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/110799935-AcCj.png",
+            "mid": "https://s3.tradingview.com/userpics/110799935-AcCj_mid.png",
+            "big": "https://s3.tradingview.com/userpics/110799935-AcCj_big.png",
+            "orig": "https://s3.tradingview.com/userpics/110799935-AcCj_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T11:02:11.029609+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD The market doesn't pay for predictions, it pays for discipline.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "iQWuQUc9",
+        "uid": "j1MWevGZTjyNWDozZriYSg",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=j1MWevGZTjyNWDozZriYSg&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " \n\nLooking at a further drop of around 100 pips once we break below the red line. \n\nNFA, DYOR."
+          ]
+        },
+        "author": {
+          "username": "HammCrypto",
+          "uri": "/u/HammCrypto/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/19176808-yZZN.png",
+            "mid": "https://s3.tradingview.com/userpics/19176808-yZZN_mid.png",
+            "big": "https://s3.tradingview.com/userpics/19176808-yZZN_big.png",
+            "orig": "https://s3.tradingview.com/userpics/19176808-yZZN_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2026-05-30T10:38:34.272421+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/i/iQWuQUc9.png",
+        "total_likes": 4,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "$XAUUSD \n\nLooking at a further drop of around 100 pips once we break below the red line. \n\nNFA, DYOR.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "xriv4byI",
+        "uid": "56JcYzwDTc6aKairaBJ0Uw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=56JcYzwDTc6aKairaBJ0Uw&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " Gold is like leoperd \n\nAnyone else new week makes a new move may go down"
+          ]
+        },
+        "author": {
+          "username": "JaxonJackFX",
+          "uri": "/u/JaxonJackFX/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/30272836-Hms0.png",
+            "mid": "https://s3.tradingview.com/userpics/30272836-Hms0_mid.png",
+            "big": "https://s3.tradingview.com/userpics/30272836-Hms0_big.png",
+            "orig": "https://s3.tradingview.com/userpics/30272836-Hms0_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2026-05-30T09:29:39.817165+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/x/xriv4byI.png",
+        "total_likes": 10,
+        "total_comments": 2,
+        "can_view": true,
+        "text": "$XAUUSD Gold is like leoperd \n\nAnyone else new week makes a new move may go down",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "0Nis_C5FR8KxNvf2Q2wX0Q",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=0Nis_C5FR8KxNvf2Q2wX0Q&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " In Forex, patience pays more than speed."
+          ]
+        },
+        "author": {
+          "username": "mayachartist",
+          "uri": "/u/mayachartist/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/110799935-AcCj.png",
+            "mid": "https://s3.tradingview.com/userpics/110799935-AcCj_mid.png",
+            "big": "https://s3.tradingview.com/userpics/110799935-AcCj_big.png",
+            "orig": "https://s3.tradingview.com/userpics/110799935-AcCj_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T09:26:39.370252+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 5,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "\"OANDA:XAUUSD\" XAUUSD In Forex, patience pays more than speed.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "ICMARKETS:XAUUSD"
+        },
+        "uid": "qaQGffuWSduZkS7rYi8nhQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=qaQGffuWSduZkS7rYi8nhQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Patience is not doing nothing. Patience is waiting for the market to reveal its intention.\nLet retail chase candles. Professionals wait for liquidity and structure.\n\nNot financial advice."
+          ]
+        },
+        "author": {
+          "username": "UnknownUnicorn134040649",
+          "uri": "/u/UnknownUnicorn134040649/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28339,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28339,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28339,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EU%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2026-05-30T09:24:00.417692+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 6,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Patience is not doing nothing. Patience is waiting for the market to reveal its intention.\nLet retail chase candles. Professionals wait for liquidity and structure.\n\nNot financial advice.",
+        "modified": null
+      }
+    ],
+    "next": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzEyMjAxMV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "prev": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzEyMjM1Ml0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "meta": {
+      "symbol": "OANDA:XAUUSD",
+      "symbols_info": {
+        "ICMARKETS:XAUUSD": {
+          "pro_symbol": "IC:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "IC",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=IC"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "OANDA:XAUUSD": {
+          "pro_symbol": "OANDA:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "OANDA",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=OANDA"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "PYTH:XAUUSD": {
+          "pro_symbol": "PYTH:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "PYTH",
+          "type": "commodity",
+          "typespecs": [
+            "crypto",
+            "oracle"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=PYTH"
+          ],
+          "ticker_title": "XAU/USD",
+          "instrument_name": "Gold Spot",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "TVC:GOLD": {
+          "pro_symbol": "TVC:GOLD",
+          "short_name": "GOLD",
+          "exchange": "TVC",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/GOLD/",
+            "?exchange=TVC"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FX:XAUUSD": {
+          "pro_symbol": "FX:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FX",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FX"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FOREXCOM:XAUUSD": {
+          "pro_symbol": "FOREXCOM:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FOREXCOM",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FOREXCOM"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        }
+      },
+      "alias": "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+    }
+  }
+}

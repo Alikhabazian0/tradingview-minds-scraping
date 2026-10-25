@@ -1,0 +1,972 @@
+[
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDg2NTVd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.454
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzI4MjNd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.655
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjUwNjBd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 5.078
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjkyNjld&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjUwNjBd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 4.304
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjE0MDBd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.143
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjU2Nl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.127
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjkxNDld&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.216
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA0MTBd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.15
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjEwODFd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.137
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjE4M10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.184
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjkxNDJdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.18
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTgzOF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.158
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjEwNzNdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.152
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjE3M10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.443
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDEwMjNd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.155
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTgzNF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.229
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjg3ODld&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.146
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzIxOTBd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.168
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDA5MTZd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.137
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTIzODld&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.147
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTA2Njhd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.134
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjEwNjZd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.169
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDA5MTNdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.211
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzE1MzVd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.126
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTA2MDhd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.163
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjA5MDNd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.121
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODU1NDJd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzE0OTZd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.151
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTA2MDVdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.242
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjA4OTFdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.21
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODU0MzRd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.429
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzE0OTRdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.266
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA4MTUwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.121
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMxMDA1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.16
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODU0MzJdLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.332
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU2OTY2XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.19
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA4MDg1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMwODI5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.117
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc0OTc1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.152
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU2OTI2XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.143
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA4MDgzXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.281
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMwODI2XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.302
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc0ODAwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.162
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU2OTI1XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.336
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjAwNDAwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.138
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjMxMDk3XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.204
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc0NzkzXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.394
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzI1MDAwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.132
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjAwMzMyXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.165
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjMxMDE5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzI1Mjc5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.162
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYzMjQwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.128
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjAwMzI5XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.441
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjMxMDE0XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.483
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzI1MDkzXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.189
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYzMTk3XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.118
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzkyNzUxXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.206
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDEyOTA0XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.171
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzI1MDkxXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.617
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYzMTk2XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.481
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQ0MzYzXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.235
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzg0ODE5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.224
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDcxNjEzXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.158
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDk1NjY2XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.153
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQ0MjcxXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.121
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzg0NjgzXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.113
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDI2OTMyXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.135
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDk1NDQ5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.163
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQ0MjY3XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.56
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzg0Njc4XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.616
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDI2ODkxXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.153
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDk1NDM1XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.814
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTQ2MDk5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.134
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTk5NTUxXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNDI2ODkwXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.695
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjY3MTM1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.123
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTQ2MDM1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.137
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTY5MjI2XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzAwNzI3XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.117
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjIxNTUyXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.143
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTQ2MDM0XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.134
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTY5MTE5XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.495
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzAwNjYwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.165
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjIxNDk4XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.129
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzU3OTQ1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.148
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTY5MTE1XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.871
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzAwNjQ1XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.035
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjIxNDk3XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.0
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzU3ODc1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.133
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODI2MzY1XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.141
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTA2NDg2XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.139
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTc1Nzk0XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.117
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNzU3ODc0XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.089
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODI2MzMwXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.135
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTA2MzY0XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.142
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTc1NzMzXQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.138
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTEwMDAwMF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.21
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbODI2MzI3XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.253
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTA2MzYyXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.301
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbOTc1NzMyXSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.427
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA5OTk1MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.188
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTE5MDAwMF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.11
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTIzODg5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.287
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMyNDk0NF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.022
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTA5OTk1MF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.514
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTE4OTkyOF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.077
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTIzODgzOV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.061
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMyNDc2Nl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.998
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQxMDU4M10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.904
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTE4OTkyMl0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.656
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTIzODgzN10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.747
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTMyNDc2M10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.804
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQxMDQ2M10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.912
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQ4NDAzOF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.865
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU3MTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.836
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTY1Njc5NF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.768
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQxMDQ1NF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.945
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQ4Mzk1NF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.854
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU3MTYzM10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.849
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTY1NjY5MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.854
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc1MDMzOV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.642
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTQ4Mzk0N10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTU3MTYwOV0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.15
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc1MDMwNV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.692
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTY1NjY4OF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.201
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTgyNTMzMV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.697
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTkwNzk2NF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.529
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTk3NTAzM10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.522
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTc1MDMwNF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.525
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTgyNTI4Nl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.615
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTkwNzg3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.838
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTk3NDk4MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.546
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjIyMzUyNl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.792
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTgyNTI3OV0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.449
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTkwNzg3MF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 2.526
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTk3NDk3N10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.527
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjEyMTY4Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.402
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.394
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.415
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.367
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.034
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjEyMTY3OV0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.645
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.029
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.037
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.022
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.389
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.018
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.021
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.027
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.017
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.013
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.019
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.017
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.022
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.022
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.019
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.024
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.015
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.013
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.017
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.021
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.019
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.017
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjM1Njc1OF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.025
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.019
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjYwNDE3MV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.016
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMjg1OTgzMl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.022
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzMyNTI3Nl0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.381
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzExNTQ5Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.014
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQyODgxNV0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.158
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzM3MzczMF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.211
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQyODYwM10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.152
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzM3MzY1M10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.238
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzQyODYwMV0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.123
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzM3MzY1MV0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.166
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzIzMDEyMF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 5.256
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzMwMzI4MF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 4.095
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzE1OTMyMF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 6.564
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzIzMDA3Ml0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.332
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzMwMzI0M10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.275
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzE1OTIzOF0&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.337
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzMwMzI0MF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 0.123
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzIzMDA3MF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.753
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMzE1OTIzN10sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "http_status": 200,
+    "seconds": 1.672
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "tested_at_utc": "2026-10-25T19:03:48.855263+00:00",
+  "symbol": "OANDA:XAUUSD",
+  "method": "monthly accessibility and two-page roundtrip audit, not an exhaustive census",
+  "months_tested": 47,
+  "months_passing": 47,
+  "distinct_sample_posts": 1880,
+  "http_requests": 194,
+  "http_status_counts": {
+    "200": 194
+  },
+  "pagination_pairs_disjoint": 47,
+  "chronological_pairs": 47,
+  "identical_roundtrips": 47,
+  "samples_with_required_fields": 47,
+  "exhaustive_archive_enumeration": false,
+  "complete_coverage_verified": false
+}

@@ -1,0 +1,1078 @@
+{
+  "label": "oldest_boundary",
+  "http_status": 200,
+  "url": "https://www.tradingview.com/api/v1/minds/?symbol=OANDA%3AXAUUSD&c=Im8iOiItaWQiLCJ2IjpbMF0sInIiOjE&f=symbol&new_count=False",
+  "payload": {
+    "results": [
+      {
+        "symbols": {
+          "USDJPY": "FX:USDJPY",
+          "FOREXCOM:XAUUSD": "FOREXCOM:XAUUSD"
+        },
+        "uid": "C4PEFKn9Tx-LdtknoY3DfA",
+        "url": "https://www.tradingview.com/symbols/USDJPY/minds/?mind=C4PEFKn9Tx-LdtknoY3DfA&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold Sell Till 1744 ",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "USDJPY",
+                "symbol": "FX:USDJPY",
+                "pageUrl": "/symbols/USDJPY/?exchange=FX",
+                "logo": {
+                  "style": "pair",
+                  "logoid": "country/US",
+                  "logoid2": "country/JP"
+                },
+                "logoId": null,
+                "baseCurrencyLogoId": "country/US",
+                "currencyLogoId": "country/JP"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "ecijazali",
+          "uri": "/u/ecijazali/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28300,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28300,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28300,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EE%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T22:05:07.036990+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD",
+          "forex@cur@JPY-USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "Gold Sell Till 1744 $USDJPY ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX_IDC:XAUUSD": "FX_IDC:XAUUSD"
+        },
+        "snapshot_id": "5wB6tK8v",
+        "uid": "q1dsi8gIR3qo_4gcEBzoEA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=q1dsi8gIR3qo_4gcEBzoEA&exchange=FX_IDC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Not so negative as long as we're not below 1770."
+          ]
+        },
+        "author": {
+          "username": "YavuzAkbay",
+          "uri": "/u/YavuzAkbay/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/4164622-Eqih.png",
+            "mid": "https://s3.tradingview.com/userpics/4164622-Eqih_mid.png",
+            "big": "https://s3.tradingview.com/userpics/4164622-Eqih_big.png",
+            "orig": "https://s3.tradingview.com/userpics/4164622-Eqih_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T21:25:48.971005+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/5/5wB6tK8v.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Not so negative as long as we're not below 1770.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD",
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "eRmXuEvC",
+        "uid": "pQS2hCpUSrq88xPzzLRiEA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=pQS2hCpUSrq88xPzzLRiEA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "XAU price will reach to strong support area between 1642 and 1682, if the support hold the price it can goes up to 2k in future, XAU correlation can be gone in near future and price can have strong massive volatility  \n",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "rTrader_official",
+          "uri": "/u/rTrader_official/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/20362732-fqBL.png",
+            "mid": "https://s3.tradingview.com/userpics/20362732-fqBL_mid.png",
+            "big": "https://s3.tradingview.com/userpics/20362732-fqBL_big.png",
+            "orig": "https://s3.tradingview.com/userpics/20362732-fqBL_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T19:14:43.142502+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/e/eRmXuEvC.png",
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "XAU price will reach to strong support area between 1642 and 1682, if the support hold the price it can goes up to 2k in future, XAU correlation can be gone in near future and price can have strong massive volatility  \n$XAUUSD ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD",
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "Zn9EiBfQQPG2S98r6MN5UA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=Zn9EiBfQQPG2S98r6MN5UA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Take a look at the MACD of the 12HR chart. Its loosing momentum big-time. Last time this happened was during covid and the difference between the dips where of 8. This has a difference of 24! Big sell is coming up\n \n ",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "luduncan886",
+          "uri": "/u/luduncan886/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/7539251-dYU3.png",
+            "mid": "https://s3.tradingview.com/userpics/7539251-dYU3_mid.png",
+            "big": "https://s3.tradingview.com/userpics/7539251-dYU3_big.png",
+            "orig": "https://s3.tradingview.com/userpics/7539251-dYU3_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T17:59:12.297081+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Take a look at the MACD of the 12HR chart. Its loosing momentum big-time. Last time this happened was during covid and the difference between the dips where of 8. This has a difference of 24! Big sell is coming up\n \n $XAUUSD ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD",
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "AruYMhUD",
+        "uid": "oYKgh_QJRHqx8Fl4EB1H4A",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=oYKgh_QJRHqx8Fl4EB1H4A&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "XAUUSD Possible hit 1800 price  ",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "TradersCommunity1961",
+          "uri": "/u/TradersCommunity1961/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/42405719-H43h.png",
+            "mid": "https://s3.tradingview.com/userpics/42405719-H43h_mid.png",
+            "big": "https://s3.tradingview.com/userpics/42405719-H43h_big.png",
+            "orig": "https://s3.tradingview.com/userpics/42405719-H43h_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T17:36:39.741697+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/a/AruYMhUD.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "XAUUSD Possible hit 1800 price  $XAUUSD ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "_Y9Z40FmQn6eDnljBa0jWQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=_Y9Z40FmQn6eDnljBa0jWQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "url",
+              "params": {
+                "url": "https://www.tradingview.com/x/K7gmun7r/",
+                "linkText": "tradingview.com/x/K7gmun7r/",
+                "relFollow": true
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "VasilyTrader",
+          "uri": "/u/VasilyTrader/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/253061-OOwl.png",
+            "mid": "https://s3.tradingview.com/userpics/253061-OOwl_mid.png",
+            "big": "https://s3.tradingview.com/userpics/253061-OOwl_big.png",
+            "orig": "https://s3.tradingview.com/userpics/253061-OOwl_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T17:23:36.162365+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 3,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "https://www.tradingview.com/x/K7gmun7r/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "pmN7qGYWQo64KNyiv1jcVA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=pmN7qGYWQo64KNyiv1jcVA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "looks bearish to me!"
+          ]
+        },
+        "author": {
+          "username": "VasilyTrader",
+          "uri": "/u/VasilyTrader/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/253061-OOwl.png",
+            "mid": "https://s3.tradingview.com/userpics/253061-OOwl_mid.png",
+            "big": "https://s3.tradingview.com/userpics/253061-OOwl_big.png",
+            "orig": "https://s3.tradingview.com/userpics/253061-OOwl_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T17:19:56.707302+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "looks bearish to me!",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "snapshot_id": "H3jQMOvv",
+        "uid": "SxBJ-VXFQjW-_R0OrKskUg",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=SxBJ-VXFQjW-_R0OrKskUg&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold Bear Continues. Scaping PA"
+          ]
+        },
+        "author": {
+          "username": "VRShaiju",
+          "uri": "/u/VRShaiju/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/37454-eR81.png",
+            "mid": "https://s3.tradingview.com/userpics/37454-eR81_mid.png",
+            "big": "https://s3.tradingview.com/userpics/37454-eR81_big.png",
+            "orig": "https://s3.tradingview.com/userpics/37454-eR81_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2022-12-19T16:51:37.656540+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/h/H3jQMOvv.png",
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Gold Bear Continues. Scaping PA ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "GOLD": "TVC:GOLD",
+          "TVC:GOLD": "TVC:GOLD"
+        },
+        "uid": "N1kRiX05QPSaR-az-4-PTQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=N1kRiX05QPSaR-az-4-PTQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold was able to break the 1791 level, now the price is between 1784 and 1791 ",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "GOLD",
+                "symbol": "TVC:GOLD",
+                "pageUrl": "/symbols/GOLD/?exchange=TVC",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "Money_hunters",
+          "uri": "/u/Money_hunters/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/45254378-pVSF.png",
+            "mid": "https://s3.tradingview.com/userpics/45254378-pVSF_mid.png",
+            "big": "https://s3.tradingview.com/userpics/45254378-pVSF_big.png",
+            "orig": "https://s3.tradingview.com/userpics/45254378-pVSF_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T16:19:28.117536+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Gold was able to break the 1791 level, now the price is between 1784 and 1791 $GOLD ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "PpapnEZiRpqrWLWbWbYDww",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=PpapnEZiRpqrWLWbWbYDww&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "1783/1782 bounce and test 1790"
+          ]
+        },
+        "author": {
+          "username": "KaisMarket",
+          "uri": "/u/KaisMarket/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/4866987-YtHG.png",
+            "mid": "https://s3.tradingview.com/userpics/4866987-YtHG_mid.png",
+            "big": "https://s3.tradingview.com/userpics/4866987-YtHG_big.png",
+            "orig": "https://s3.tradingview.com/userpics/4866987-YtHG_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T16:08:59.757517+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 3,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "1783/1782 bounce and test 1790",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "rrXC1gFF",
+        "uid": "K-jhqXpuQCubyekz2xA3Qw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=K-jhqXpuQCubyekz2xA3Qw&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold uptrend creat Head and shoulders parttern and down 1781"
+          ]
+        },
+        "author": {
+          "username": "Trading686868",
+          "uri": "/u/Trading686868/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6125711-Owpc.png",
+            "mid": "https://s3.tradingview.com/userpics/6125711-Owpc_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6125711-Owpc_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6125711-Owpc_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T15:38:49.582745+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/r/rrXC1gFF.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Gold uptrend creat Head and shoulders parttern and down 1781\n",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "ZN3-o3mcSdKfXdpn2LQLDQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=ZN3-o3mcSdKfXdpn2LQLDQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "hi every body"
+          ]
+        },
+        "author": {
+          "username": "Trading686868",
+          "uri": "/u/Trading686868/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6125711-Owpc.png",
+            "mid": "https://s3.tradingview.com/userpics/6125711-Owpc_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6125711-Owpc_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6125711-Owpc_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T15:34:13.175832+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "hi every body",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "eECkn123Rt-XRJbl8vaa5g",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=eECkn123Rt-XRJbl8vaa5g&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "uptrend above 1786 to reach 1795 and 1804"
+          ]
+        },
+        "author": {
+          "username": "SroshMayi",
+          "uri": "/u/SroshMayi/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/3360625-3nlf.png",
+            "mid": "https://s3.tradingview.com/userpics/3360625-3nlf_mid.png",
+            "big": "https://s3.tradingview.com/userpics/3360625-3nlf_big.png",
+            "orig": "https://s3.tradingview.com/userpics/3360625-3nlf_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T14:25:49.895924+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 4,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "uptrend above 1786 to reach 1795 and 1804",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "CMLj8Vbd",
+        "uid": "ZXsC8m-SRgGVampH4bjPUA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=ZXsC8m-SRgGVampH4bjPUA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "I am not counting on increases"
+          ]
+        },
+        "author": {
+          "username": "InvestMate",
+          "uri": "/u/InvestMate/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/887311-kF3Q.png",
+            "mid": "https://s3.tradingview.com/userpics/887311-kF3Q_mid.png",
+            "big": "https://s3.tradingview.com/userpics/887311-kF3Q_big.png",
+            "orig": "https://s3.tradingview.com/userpics/887311-kF3Q_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T14:25:31.330330+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/c/CMLj8Vbd.png",
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "I am not counting on increases",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "TVC:GOLD": "TVC:GOLD"
+        },
+        "uid": "6OwT9yz7TMioQ7NmNcgeoQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=6OwT9yz7TMioQ7NmNcgeoQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "1786 above that is uptrend to reach 1795 & 1805"
+          ]
+        },
+        "author": {
+          "username": "SroshMayi",
+          "uri": "/u/SroshMayi/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/3360625-3nlf.png",
+            "mid": "https://s3.tradingview.com/userpics/3360625-3nlf_mid.png",
+            "big": "https://s3.tradingview.com/userpics/3360625-3nlf_big.png",
+            "orig": "https://s3.tradingview.com/userpics/3360625-3nlf_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T14:24:47.177932+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "1786 above that is uptrend to reach 1795 & 1805 ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD",
+          "SAXO:XAUUSD": "SAXO:XAUUSD"
+        },
+        "snapshot_id": "gNutauVc",
+        "uid": "gXV61d06RyOpGhV2sRAe5Q",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=gXV61d06RyOpGhV2sRAe5Q&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "last chance for santa rally  ",
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            }
+          ]
+        },
+        "author": {
+          "username": "Sangam-Agarwal",
+          "uri": "/u/Sangam-Agarwal/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/5662096-UA4L.png",
+            "mid": "https://s3.tradingview.com/userpics/5662096-UA4L_mid.png",
+            "big": "https://s3.tradingview.com/userpics/5662096-UA4L_big.png",
+            "orig": "https://s3.tradingview.com/userpics/5662096-UA4L_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T14:12:13.399249+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/g/gNutauVc.png",
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "last chance for santa rally  $XAUUSD ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "P3jTIHms",
+        "uid": "16bSymoBTn2ufTiYCxQ81A",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=16bSymoBTn2ufTiYCxQ81A&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "waiting for break todays low or high, hmm I want todays low to break"
+          ]
+        },
+        "author": {
+          "username": "TopTradingIndicator",
+          "uri": "/u/TopTradingIndicator/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28255,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28255,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28255,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-19T14:08:59.499607+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/p/P3jTIHms.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "waiting for break todays low or high, hmm I want todays low to break ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "S7Cec4Y8QMm110IFiv4_0Q",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=S7Cec4Y8QMm110IFiv4_0Q&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "1858 mid-term"
+          ]
+        },
+        "author": {
+          "username": "RLinda",
+          "uri": "/u/RLinda/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/37284142-BNCx.png",
+            "mid": "https://s3.tradingview.com/userpics/37284142-BNCx_mid.png",
+            "big": "https://s3.tradingview.com/userpics/37284142-BNCx_big.png",
+            "orig": "https://s3.tradingview.com/userpics/37284142-BNCx_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T13:40:56.794197+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 49,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "1858 mid-term ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FOREXCOM:XAUUSD": "FOREXCOM:XAUUSD"
+        },
+        "snapshot_id": "ToDPaktE",
+        "uid": "eafc5Q3bQ4masSZ1rlEC0A",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=eafc5Q3bQ4masSZ1rlEC0A&exchange=FOREXCOM",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "lez gow gold"
+          ]
+        },
+        "author": {
+          "username": "watpak",
+          "uri": "/u/watpak/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/510159-P5Kj.png",
+            "mid": "https://s3.tradingview.com/userpics/510159-P5Kj_mid.png",
+            "big": "https://s3.tradingview.com/userpics/510159-P5Kj_big.png",
+            "orig": "https://s3.tradingview.com/userpics/510159-P5Kj_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T13:38:55.381870+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/t/ToDPaktE.png",
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "lez gow gold",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "TVC:GOLD": "TVC:GOLD"
+        },
+        "uid": "IgXkQiHlQ2m0D7EouMmBUQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=IgXkQiHlQ2m0D7EouMmBUQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "1858 medium-term perspective"
+          ]
+        },
+        "author": {
+          "username": "RLinda",
+          "uri": "/u/RLinda/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/37284142-BNCx.png",
+            "mid": "https://s3.tradingview.com/userpics/37284142-BNCx_mid.png",
+            "big": "https://s3.tradingview.com/userpics/37284142-BNCx_big.png",
+            "orig": "https://s3.tradingview.com/userpics/37284142-BNCx_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-19T13:38:28.763168+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 13,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "1858 medium-term perspective ",
+        "modified": null
+      }
+    ],
+    "next": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjdd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "prev": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTM5XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "meta": {
+      "symbol": "OANDA:XAUUSD",
+      "symbols_info": {
+        "TVC:GOLD": {
+          "pro_symbol": "TVC:GOLD",
+          "short_name": "GOLD",
+          "exchange": "TVC",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/GOLD/",
+            "?exchange=TVC"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FOREXCOM:XAUUSD": {
+          "pro_symbol": "FOREXCOM:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FOREXCOM",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FOREXCOM"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FX:XAUUSD": {
+          "pro_symbol": "FX:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FX",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FX"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "OANDA:XAUUSD": {
+          "pro_symbol": "OANDA:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "OANDA",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=OANDA"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "SAXO:XAUUSD": {
+          "pro_symbol": "SAXO:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "SAXO",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=SAXO"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FX_IDC:XAUUSD": {
+          "pro_symbol": "FX_IDC:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FX_IDC",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FX_IDC"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FX:USDJPY": {
+          "pro_symbol": "FX:USDJPY",
+          "short_name": "USDJPY",
+          "exchange": "FX",
+          "type": "forex",
+          "typespecs": [],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/USDJPY/",
+            "?exchange=FX"
+          ],
+          "ticker_title": "USD to JPY",
+          "instrument_name": "U.S. Dollar / Japanese Yen",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/country/US.svg",
+            "https://s3-symbol-logo.tradingview.com/country/JP.svg"
+          ],
+          "logo": {
+            "style": "pair",
+            "logoid": "country/US",
+            "logoid2": "country/JP"
+          },
+          "base_currency_logo_id": "country/US",
+          "currency_logo_id": "country/JP",
+          "country": ""
+        }
+      },
+      "alias": "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+    }
+  }
+}

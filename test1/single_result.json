@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "uid": "MtbjlcAeQJaOK7k9BeEXVw",
+      "text": "$XAUUSD\n\n📊 XAUUSD — MONDAY OPEN WATCH\n\nGold had a volatile week — sweeping lows down to the 4,000 psychological level before recovering back into the 4,020 - 4,060 range heading into the weekend close.\n\nNow as we head into Monday's open, price sits at a critical decision point. The 4,000 level has proven itself as a significant structural floor multiple times — but every test weakens it further.\n\nThe key levels to watch this week:\n\n🔼 Above 4,060 — bulls could push toward the 4,100 - 4,130 supply zone\n🔽 Below 4,000 — structure breaks and sellers could accelerate toward 3,960 and below\n\n👇 Drop your thoughts below — where do YOU see Gold heading as markets open Monday?\n\nA) 🟢 Bullish — bounce from 4,000 support targeting 4,100+\nB) 🔴 Bearish — 4,000 breaks and we see 3,960 or lower\nC) 🔀 Ranging — consolidation before the next big move\n\nWhat's your read on Monday's open? Let's hear it! 👇\n\nFor educational purposes only. Always manage your risk.",
+      "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=MtbjlcAeQJaOK7k9BeEXVw&exchange=OANDA",
+      "author": {
+        "username": "STEVE_COHEN",
+        "profile_url": "https://www.tradingview.com/u/STEVE_COHEN/",
+        "is_broker": false
+      },
+      "created": "2026-10-25 18:24:51",
+      "symbols": [
+        "FOREXCOM:XAUUSD"
+      ],
+      "total_likes": 0,
+      "total_comments": 0,
+      "modified": null,
+      "hidden": false
+    },
+    {
+      "uid": "GRtjSKlATI6E2bwyz9-jwQ",
+      "text": "$XAUUSD Three month low $3849 incoming 🤮",
+      "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=GRtjSKlATI6E2bwyz9-jwQ&exchange=OANDA",
+      "author": {
+        "username": "NancyNandrolone",
+        "profile_url": "https://www.tradingview.com/u/NancyNandrolone/",
+        "is_broker": false
+      },
+      "created": "2026-10-25 18:12:36",
+      "symbols": [
+        "FX:XAUUSD"
+      ],
+      "total_likes": 1,
+      "total_comments": 0,
+      "modified": "2026-10-25T18:14:02.088970+00:00",
+      "hidden": false
+    },
+    {
+      "uid": "qf2zRZ59QmSTTzqM-KeV0w",
+      "text": "\"OANDA:XAUUSD\" XAUUSD 🥇 XAUUSD | NEXT WEEK’S OUTLOOK📉 4H reverse? 🎯 Key support: 3,960\n🟢 Reclaim 4,080–4,120 for recovery potential.📊 Inflation data and oil prices could drive volatility. Watching price action for accumulation, manipulation and distribution.",
+      "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=qf2zRZ59QmSTTzqM-KeV0w&exchange=OANDA",
+      "author": {
+        "username": "Ave4lla8",
+        "profile_url": "https://www.tradingview.com/u/Ave4lla8/",
+        "is_broker": false
+      },
+      "created": "2026-10-25 17:37:09",
+      "symbols": [
+        "OANDA:XAUUSD"
+      ],
+      "total_likes": 1,
+      "total_comments": 0,
+      "modified": null,
+      "hidden": false
+    },
+    {
+      "uid": "9a_UyMAFSqaCiNgvo01O_w",
+      "text": "\"OANDA:XAUUSD\" XAUUSD trumph announced no strike today on Iran can have positive consequences on gold as Oil price had a sharp fall in last hour. watch closely.",
+      "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=9a_UyMAFSqaCiNgvo01O_w&exchange=OANDA",
+      "author": {
+        "username": "Samar_Gold_Analysis",
+        "profile_url": "https://www.tradingview.com/u/Samar_Gold_Analysis/",
+        "is_broker": false
+      },
+      "created": "2026-10-25 17:19:40",
+      "symbols": [
+        "OANDA:XAUUSD"
+      ],
+      "total_likes": 4,
+      "total_comments": 0,
+      "modified": null,
+      "hidden": false
+    },
+    {
+      "uid": "3mMEj7GER4C-icBvhUwLcA",
+      "text": "\"OANDA:XAUUSD\" XAUUSD Gap mostelikely will be up. Already climbed through 4000 after hours. ",
+      "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=3mMEj7GER4C-icBvhUwLcA&exchange=OANDA",
+      "author": {
+        "username": "Brokengolds",
+        "profile_url": "https://www.tradingview.com/u/Brokengolds/",
+        "is_broker": false
+      },
+      "created": "2026-10-25 17:18:26",
+      "symbols": [
+        "OANDA:XAUUSD"
+      ],
+      "total_likes": 3,
+      "total_comments": 1,
+      "modified": null,
+      "hidden": false
+    }
+  ],
+  "total": 5,
+  "symbol_info": {
+    "pro_symbol": "OANDA:XAUUSD",
+    "short_name": "XAUUSD",
+    "exchange": "OANDA",
+    "type": "commodity",
+    "typespecs": [
+      "cfd"
+    ],
+    "tv_symbol_page_url_force_exchange": [
+      "/symbols/XAUUSD/",
+      "?exchange=OANDA"
+    ],
+    "ticker_title": "Gold Spot / U.S. Dollar",
+    "instrument_name": "Gold Spot / U.S. Dollar",
+    "medium_logo_urls": [
+      "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+    ],
+    "logo": {
+      "style": "single",
+      "logoid": "metal/gold"
+    },
+    "logo_id": "metal/gold",
+    "currency_logo_id": "country/US",
+    "country": ""
+  },
+  "next_cursor": "/api/v1/minds/?c=ImMiOjUsIm8iOiItaWQiLCJ2IjpbMzQ0NzYzN10&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False"
+}

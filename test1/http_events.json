@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?symbol=OANDA%3AXAUUSD&limit=5&sort=recent",
+    "status": 200,
+    "content_type": "application/json"
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/minds/?symbol=OANDA%3AXAUUSD&limit=50&sort=recent",
+    "status": 400,
+    "content_type": "application/json",
+    "error_body": "{\"detail\":\"Bad request\",\"code\":\"bad_pagination_request\"}"
+  }
+]

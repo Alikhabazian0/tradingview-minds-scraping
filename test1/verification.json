@@ -1,0 +1,25 @@
+{
+  "unique_posts": 60,
+  "pages": 3,
+  "page_sizes": [
+    20,
+    20,
+    20
+  ],
+  "all_http_200": true,
+  "oldest_utc": "2026-10-24T08:00:51.849712+00:00",
+  "newest_utc": "2026-10-25T18:24:51.183336+00:00",
+  "descending_times": true,
+  "all_text_nonempty": true,
+  "providers_observed": [
+    "ACTIVTRADES:GOLD",
+    "CAPITALCOM:XAUUSD",
+    "FOREXCOM:XAUUSD",
+    "FX:XAUUSD",
+    "OANDA:XAUUSD",
+    "THINKMARKETS:XAUUSD",
+    "TVC:GOLD",
+    "VANTAGE:XAUUSD"
+  ],
+  "csv_rows": 60
+}

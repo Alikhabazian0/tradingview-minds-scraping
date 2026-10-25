@@ -1,0 +1,956 @@
+{
+  "status": 200,
+  "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTM5XSwiciI6MQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+  "payload": {
+    "results": [
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "snapshot_id": "Iq9La3Mv",
+        "uid": "0sSxynDISuqSsu-3p69Pew",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=0sSxynDISuqSsu-3p69Pew&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "short to 1808\n9RR"
+          ]
+        },
+        "author": {
+          "username": "apexdow",
+          "uri": "/u/apexdow/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6475640-SrlN.png",
+            "mid": "https://s3.tradingview.com/userpics/6475640-SrlN_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6475640-SrlN_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6475640-SrlN_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T17:33:38.286623+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/i/Iq9La3Mv.png",
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "short to 1808\n9RR",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "EIGHTCAP:XAUUSD": "EIGHTCAP:XAUUSD"
+        },
+        "snapshot_id": "X1Tccx4q",
+        "uid": "Kb5EAh1WRui_gjWSVdh5Rg",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=Kb5EAh1WRui_gjWSVdh5Rg&exchange=EIGHTCAP",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "i like to stick to trends and count  elliotwaves togather are a powerfull tool"
+          ]
+        },
+        "author": {
+          "username": "JetSpark",
+          "uri": "/u/JetSpark/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/39253678-lGTi.png",
+            "mid": "https://s3.tradingview.com/userpics/39253678-lGTi_mid.png",
+            "big": "https://s3.tradingview.com/userpics/39253678-lGTi_big.png",
+            "orig": "https://s3.tradingview.com/userpics/39253678-lGTi_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2022-12-20T16:52:57.542617+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/x/X1Tccx4q.png",
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "i like to stick to trends and count  elliotwaves togather are a powerfull tool",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "EIGHTCAP:XAUUSD": "EIGHTCAP:XAUUSD"
+        },
+        "snapshot_id": "HZ6OFb1f",
+        "uid": "266OWC__QfyDhtWyPUzC-A",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=266OWC__QfyDhtWyPUzC-A&exchange=EIGHTCAP",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "double minor impulse in bigger impulse"
+          ]
+        },
+        "author": {
+          "username": "JetSpark",
+          "uri": "/u/JetSpark/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/39253678-lGTi.png",
+            "mid": "https://s3.tradingview.com/userpics/39253678-lGTi_mid.png",
+            "big": "https://s3.tradingview.com/userpics/39253678-lGTi_big.png",
+            "orig": "https://s3.tradingview.com/userpics/39253678-lGTi_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2022-12-20T16:51:31.269409+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/h/HZ6OFb1f.png",
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "double minor impulse in bigger impulse",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "XAUUSD": "OANDA:XAUUSD",
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "snapshot_id": "3yGkQqkH",
+        "uid": "Z1htfb5eQ4Of84cApr5-XQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=Z1htfb5eQ4Of84cApr5-XQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            {
+              "type": "symbol",
+              "params": {
+                "text": "XAUUSD",
+                "symbol": "OANDA:XAUUSD",
+                "pageUrl": "/symbols/XAUUSD/?exchange=OANDA",
+                "logo": {
+                  "style": "single",
+                  "logoid": "metal/gold"
+                },
+                "logoId": "metal/gold",
+                "baseCurrencyLogoId": null,
+                "currencyLogoId": "country/US"
+              }
+            },
+            " in a good price action ,Next station is 1850 , What your opinion ?"
+          ]
+        },
+        "author": {
+          "username": "afakiali2",
+          "uri": "/u/afakiali2/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/24729076-Tsoi.png",
+            "mid": "https://s3.tradingview.com/userpics/24729076-Tsoi_mid.png",
+            "big": "https://s3.tradingview.com/userpics/24729076-Tsoi_big.png",
+            "orig": "https://s3.tradingview.com/userpics/24729076-Tsoi_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T14:11:13.511478+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/3/3yGkQqkH.png",
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "  $XAUUSD in a good price action ,Next station is 1850 , What your opinion ? ",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "snapshot_id": "Y5Dk6qWA",
+        "uid": "_Wi5wwbvTS-rG14y71XLXA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=_Wi5wwbvTS-rG14y71XLXA&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Chop up retail , Back test marked level, fill FVG   then back up or is it too obvious .."
+          ]
+        },
+        "author": {
+          "username": "SJTRADESFUTURES",
+          "uri": "/u/SJTRADESFUTURES/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/1031778-0O0M.png",
+            "mid": "https://s3.tradingview.com/userpics/1031778-0O0M_mid.png",
+            "big": "https://s3.tradingview.com/userpics/1031778-0O0M_big.png",
+            "orig": "https://s3.tradingview.com/userpics/1031778-0O0M_orig.png"
+          },
+          "badges": [
+            {
+              "name": "employee",
+              "verbose_name": "TradingView employee"
+            },
+            {
+              "name": "pro:pro_premium_expert",
+              "verbose_name": "Ultimate"
+            }
+          ]
+        },
+        "created": "2022-12-20T13:39:33.842417+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/y/Y5Dk6qWA.png",
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Chop up retail , Back test marked level, fill FVG   then back up or is it too obvious ..",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "EIGHTCAP:XAUUSD": "EIGHTCAP:XAUUSD"
+        },
+        "snapshot_id": "ZMyrIQJI",
+        "uid": "-qd08D7BRdSekhD5OmWhlw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=-qd08D7BRdSekhD5OmWhlw&exchange=EIGHTCAP",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "was a good trade"
+          ]
+        },
+        "author": {
+          "username": "TJalam",
+          "uri": "/u/TJalam/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6514509-nkk3.png",
+            "mid": "https://s3.tradingview.com/userpics/6514509-nkk3_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6514509-nkk3_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6514509-nkk3_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-20T13:37:40.055347+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/z/ZMyrIQJI.png",
+        "total_likes": 3,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "was a good trade",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "snapshot_id": "qeYJI9rX",
+        "uid": "mZQ2AimEQyao9Q8vPdEXYQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=mZQ2AimEQyao9Q8vPdEXYQ&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "gold 1850 after sweeping 1755 zone"
+          ]
+        },
+        "author": {
+          "username": "LIQUIDITYTRADERZZ",
+          "uri": "/u/LIQUIDITYTRADERZZ/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6297915-ujkE.png",
+            "mid": "https://s3.tradingview.com/userpics/6297915-ujkE_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6297915-ujkE_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6297915-ujkE_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T13:13:19.372128+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/q/qeYJI9rX.png",
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "gold 1850 after sweeping 1755 zone",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "TVC:GOLD": "TVC:GOLD"
+        },
+        "uid": "pRqbBH5eSzqGYbD9cxLERQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=pRqbBH5eSzqGYbD9cxLERQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Precious metals will be nice to hold during this period as recession fears increase each day. We may even get new ATH in Gold next year. Once we get also a mix of fed easing we will capitulate on that. I saw no one explained why it could go up or down. Maybe this will help newbies. ",
+            {
+              "params": {
+                "link": "https://www.tradingview.com/chart/GOLD/EKWRPTpd-Long-gold/",
+                "name": "Long gold",
+                "uid": "EKWRPTpd"
+              },
+              "type": "idea_link"
+            }
+          ]
+        },
+        "author": {
+          "username": "Inorogu",
+          "uri": "/u/Inorogu/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/2631189-0xbd.png",
+            "mid": "https://s3.tradingview.com/userpics/2631189-0xbd_mid.png",
+            "big": "https://s3.tradingview.com/userpics/2631189-0xbd_big.png",
+            "orig": "https://s3.tradingview.com/userpics/2631189-0xbd_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T12:32:38.390207+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 4,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Precious metals will be nice to hold during this period as recession fears increase each day. We may even get new ATH in Gold next year. Once we get also a mix of fed easing we will capitulate on that. I saw no one explained why it could go up or down. Maybe this will help newbies. https://www.tradingview.com/chart/GOLD/EKWRPTpd-Long-gold/",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "Nh59PxxjTs2MbT2_ACrFuA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=Nh59PxxjTs2MbT2_ACrFuA&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "I want to crazy, red liike hell"
+          ]
+        },
+        "author": {
+          "username": "thanyaratkhamkha",
+          "uri": "/u/thanyaratkhamkha/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2887,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2887,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2887,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ET%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T11:19:28.600338+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "I want to crazy, red liike hell",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "PEPPERSTONE:XAUUSD": "PEPPERSTONE:XAUUSD"
+        },
+        "uid": "JDCWd9jOSvuBIfL-3PLNng",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=JDCWd9jOSvuBIfL-3PLNng&exchange=PEPPERSTONE",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "obviously, Daily chart, current is under the forming 3rd top and if triple heads pattern. of coz, the daily pattern estimation need be proved in coming few weeks.. \n\ndaily chart, gold can ez figure out the up trend 5 waves with standard elliot wave.\n\nv can wait and figure best timing and position for the big short coming."
+          ]
+        },
+        "author": {
+          "username": "Alphatora",
+          "uri": "/u/Alphatora/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28324,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28324,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28324,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E"
+          },
+          "badges": [
+            {
+              "name": "pro:pro_premium",
+              "verbose_name": "Premium"
+            }
+          ]
+        },
+        "created": "2022-12-20T10:58:13.459931+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "obviously, Daily chart, current is under the forming 3rd top and if triple heads pattern. of coz, the daily pattern estimation need be proved in coming few weeks.. \n\ndaily chart, gold can ez figure out the up trend 5 waves with standard elliot wave.\n\nv can wait and figure best timing and position for the big short coming.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FOREXCOM:XAUUSD": "FOREXCOM:XAUUSD"
+        },
+        "uid": "e8Ku-n4rSYyYRdY9mmfxNA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=e8Ku-n4rSYyYRdY9mmfxNA&exchange=FOREXCOM",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold will backtest abit than Uptrend in 4TF"
+          ]
+        },
+        "author": {
+          "username": "VSukrey",
+          "uri": "/u/VSukrey/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/6700914-UWQE.png",
+            "mid": "https://s3.tradingview.com/userpics/6700914-UWQE_mid.png",
+            "big": "https://s3.tradingview.com/userpics/6700914-UWQE_big.png",
+            "orig": "https://s3.tradingview.com/userpics/6700914-UWQE_orig.png"
+          },
+          "badges": [
+            {
+              "name": "pro:pro",
+              "verbose_name": "Essential"
+            }
+          ]
+        },
+        "created": "2022-12-20T10:47:31.699853+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Gold will backtest abit than Uptrend in 4TF\n",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "MWQJ3MUGQp2uI9GUKmdRQQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=MWQJ3MUGQp2uI9GUKmdRQQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Gold🔴 12M-chart see RSI -"
+          ]
+        },
+        "author": {
+          "username": "ghorbania",
+          "uri": "/u/ghorbania/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/16905455-RaQp.png",
+            "mid": "https://s3.tradingview.com/userpics/16905455-RaQp_mid.png",
+            "big": "https://s3.tradingview.com/userpics/16905455-RaQp_big.png",
+            "orig": "https://s3.tradingview.com/userpics/16905455-RaQp_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T10:41:19.348068+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Gold🔴 12M-chart see RSI -",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "bUb5ZZ4rQl6l76gSjCcfFA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=bUb5ZZ4rQl6l76gSjCcfFA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "But I feel that the possibility of it continuing the downtrend is more"
+          ]
+        },
+        "author": {
+          "username": "ahmedezzeldien78",
+          "uri": "/u/ahmedezzeldien78/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28312,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28312,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28312,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EA%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T10:03:45.058757+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "But I feel that the possibility of it continuing the downtrend is more",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "9MMtAeawRnSAgBmtBKvalA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=9MMtAeawRnSAgBmtBKvalA&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "gold down 1776-1763"
+          ]
+        },
+        "author": {
+          "username": "ghorbania",
+          "uri": "/u/ghorbania/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/16905455-RaQp.png",
+            "mid": "https://s3.tradingview.com/userpics/16905455-RaQp_mid.png",
+            "big": "https://s3.tradingview.com/userpics/16905455-RaQp_big.png",
+            "orig": "https://s3.tradingview.com/userpics/16905455-RaQp_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T09:50:48.167562+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "gold down 1776-1763",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "n21jJXOOTT2wFSmbIaKZmw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=n21jJXOOTT2wFSmbIaKZmw&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "In the 4-hour time frame, if we have a rejection from the level of 1807. A head and shoulders is forming and could fall to 1732."
+          ]
+        },
+        "author": {
+          "username": "Money_hunters",
+          "uri": "/u/Money_hunters/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/45254378-pVSF.png",
+            "mid": "https://s3.tradingview.com/userpics/45254378-pVSF_mid.png",
+            "big": "https://s3.tradingview.com/userpics/45254378-pVSF_big.png",
+            "orig": "https://s3.tradingview.com/userpics/45254378-pVSF_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T09:45:31.129369+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 2,
+        "total_comments": 1,
+        "can_view": true,
+        "text": "In the 4-hour time frame, if we have a rejection from the level of 1807. A head and shoulders is forming and could fall to 1732.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "PEPPERSTONE:XAUUSD": "PEPPERSTONE:XAUUSD"
+        },
+        "uid": "HRPx2VqrQYCi6Hk3VMb-Bw",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=HRPx2VqrQYCi6Hk3VMb-Bw&exchange=PEPPERSTONE",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "gold to 1800 short term . long term toward 1757"
+          ]
+        },
+        "author": {
+          "username": "Yosefel7",
+          "uri": "/u/Yosefel7/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2842,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EY%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2842,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EY%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%2842,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EY%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T08:24:20.339605+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 5,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "gold to 1800 short term . long term toward 1757",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "OANDA:XAUUSD": "OANDA:XAUUSD"
+        },
+        "uid": "Z-c8kxJ2SBahjyWK5nD-mQ",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=Z-c8kxJ2SBahjyWK5nD-mQ&exchange=OANDA",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "gold second trend is stron now 1800nto break."
+          ]
+        },
+        "author": {
+          "username": "newbeginneracademy",
+          "uri": "/u/newbeginneracademy/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/36656083-g8li.png",
+            "mid": "https://s3.tradingview.com/userpics/36656083-g8li_mid.png",
+            "big": "https://s3.tradingview.com/userpics/36656083-g8li_big.png",
+            "orig": "https://s3.tradingview.com/userpics/36656083-g8li_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T07:30:17.889436+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 1,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "gold second trend is stron now 1800nto break.",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "TVC:GOLD": "TVC:GOLD"
+        },
+        "snapshot_id": "LiabnTgx",
+        "uid": "7MeAmnqlTvSBZ5t05Ic2WQ",
+        "url": "https://www.tradingview.com/symbols/GOLD/minds/?mind=7MeAmnqlTvSBZ5t05Ic2WQ&exchange=TVC",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "gold to 1770 ! ?"
+          ]
+        },
+        "author": {
+          "username": "spiritedPlayer93717",
+          "uri": "/u/spiritedPlayer93717/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28156,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ES%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28156,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ES%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28156,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3ES%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T05:08:49.360978+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/l/LiabnTgx.png",
+        "total_likes": 0,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "gold to 1770 ! ?",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "EIGHTCAP:XAUUSD": "EIGHTCAP:XAUUSD"
+        },
+        "snapshot_id": "LT8hrJyy",
+        "uid": "0gJkf7ZUQummeV-FvZ9dIA",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=0gJkf7ZUQummeV-FvZ9dIA&exchange=EIGHTCAP",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "Happy Hunting Everyone!"
+          ]
+        },
+        "author": {
+          "username": "Skreeonk",
+          "uri": "/u/Skreeonk/",
+          "is_broker": false,
+          "avatars": {
+            "small": "https://s3.tradingview.com/userpics/34617686-xUiN.png",
+            "mid": "https://s3.tradingview.com/userpics/34617686-xUiN_mid.png",
+            "big": "https://s3.tradingview.com/userpics/34617686-xUiN_big.png",
+            "orig": "https://s3.tradingview.com/userpics/34617686-xUiN_orig.png"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T04:17:57.807205+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "snapshot_url": "https://s3.tradingview.com/snapshots/l/LT8hrJyy.png",
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "Happy Hunting Everyone!",
+        "modified": null
+      },
+      {
+        "symbols": {
+          "FX:XAUUSD": "FX:XAUUSD"
+        },
+        "uid": "StETnxReTB290hxbMoQr6A",
+        "url": "https://www.tradingview.com/symbols/XAUUSD/minds/?mind=StETnxReTB290hxbMoQr6A&exchange=FX",
+        "text_ast": {
+          "type": "root",
+          "children": [
+            "I see gold deep to 1775 before retrace ... GL\nP.S: never stand up front a train..."
+          ]
+        },
+        "author": {
+          "username": "Brokengolds",
+          "uri": "/u/Brokengolds/",
+          "is_broker": false,
+          "avatars": {
+            "small": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2239%22%20height=%2239%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28126,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E",
+            "mid": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%2296%22%20height=%2296%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28126,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E",
+            "big": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220,0,20,20%22%20width=%22320%22%20height=%22320%22%3E%3Crect%20height=%2220%22%20width=%2220%22%20fill=%22hsl%28126,25%25,50%25%29%22/%3E%3Ctext%20fill=%22white%22%20x=%2210%22%20y=%2214.8%22%20font-size=%2214%22%20font-family=%22-apple-system,BlinkMacSystemFont,Trebuchet%20MS,Roboto,Ubuntu,sans-serif%22%20text-anchor=%22middle%22%3EB%3C/text%3E%3C/svg%3E"
+          },
+          "badges": []
+        },
+        "created": "2022-12-20T00:49:59.154949+00:00",
+        "hidden": false,
+        "access": "public",
+        "aliases": [
+          "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+        ],
+        "total_likes": 2,
+        "total_comments": 0,
+        "can_view": true,
+        "text": "I see gold deep to 1775 before retrace ... GL\nP.S: never stand up front a train... ",
+        "modified": null
+      }
+    ],
+    "next": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNTg3XQ&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "prev": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbMTEyMF0sInIiOjE&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "meta": {
+      "symbol": "OANDA:XAUUSD",
+      "symbols_info": {
+        "FX:XAUUSD": {
+          "pro_symbol": "FX:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FX",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FX"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "EIGHTCAP:XAUUSD": {
+          "pro_symbol": "EIGHTCAP:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "EIGHTCAP",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=EIGHTCAP"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "TVC:GOLD": {
+          "pro_symbol": "TVC:GOLD",
+          "short_name": "GOLD",
+          "exchange": "TVC",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/GOLD/",
+            "?exchange=TVC"
+          ],
+          "ticker_title": "Gold",
+          "instrument_name": "Gold",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "OANDA:XAUUSD": {
+          "pro_symbol": "OANDA:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "OANDA",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=OANDA"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "PEPPERSTONE:XAUUSD": {
+          "pro_symbol": "PEPPERSTONE:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "PEPPERSTONE",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=PEPPERSTONE"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        },
+        "FOREXCOM:XAUUSD": {
+          "pro_symbol": "FOREXCOM:XAUUSD",
+          "short_name": "XAUUSD",
+          "exchange": "FOREXCOM",
+          "type": "commodity",
+          "typespecs": [
+            "cfd"
+          ],
+          "tv_symbol_page_url_force_exchange": [
+            "/symbols/XAUUSD/",
+            "?exchange=FOREXCOM"
+          ],
+          "ticker_title": "Gold Spot / U.S. Dollar",
+          "instrument_name": "Gold Spot / U.S. Dollar",
+          "medium_logo_urls": [
+            "https://s3-symbol-logo.tradingview.com/metal/gold.svg"
+          ],
+          "logo": {
+            "style": "single",
+            "logoid": "metal/gold"
+          },
+          "logo_id": "metal/gold",
+          "currency_logo_id": "country/US",
+          "country": ""
+        }
+      },
+      "alias": "commodity@prt@Commodity__Metals__Precious__Gold:USD"
+    }
+  }
+}

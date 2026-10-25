@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "url": "https://www.tradingview.com/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjdd&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+  "payload": {
+    "results": [],
+    "prev": "/api/v1/minds/?c=Im8iOiItaWQiLCJ2IjpbNjddLCJyIjox&f=symbol&symbol=OANDA%3AXAUUSD&new_count=False",
+    "meta": {
+      "symbol": "OANDA:XAUUSD",
+      "symbols_info": {},
+      "alias": "commodity@prt@Commodity__Metals__Precious__Gold:USD",
+      "current_cursor": "Im8iOiItaWQiLCJ2IjpbNjdd"
+    }
+  }
+}
